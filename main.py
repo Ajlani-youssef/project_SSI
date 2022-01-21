@@ -9,7 +9,7 @@ if __name__ == '__main__':
         print("3-quit")
         choice = int(input())
         if choice == 1:
-            # if login():
+            if login():
                 menu()
         elif choice == 2:
             sign_up()
