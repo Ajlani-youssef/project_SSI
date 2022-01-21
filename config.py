@@ -1,0 +1,7 @@
+email = ""
+email_password = ""
+database = "SSI"
+user = "postgres"
+bd_password = "admin123"
+host = "localhost"
+port = "5432"
